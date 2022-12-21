@@ -1,0 +1,16 @@
+C:\Users\diman\source\repos\record\record\obj\Debug\netcoreapp3.1\record.csproj.AssemblyReference.cache
+C:\Users\diman\source\repos\record\record\obj\Debug\netcoreapp3.1\record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diman\source\repos\record\record\obj\Debug\netcoreapp3.1\record.AssemblyInfoInputs.cache
+C:\Users\diman\source\repos\record\record\obj\Debug\netcoreapp3.1\record.AssemblyInfo.cs
+C:\Users\diman\source\repos\record\record\obj\Debug\netcoreapp3.1\record.csproj.CoreCompileInputs.cache
+C:\Users\diman\source\repos\record\record\bin\Debug\netcoreapp3.1\record.exe
+C:\Users\diman\source\repos\record\record\bin\Debug\netcoreapp3.1\record.deps.json
+C:\Users\diman\source\repos\record\record\bin\Debug\netcoreapp3.1\record.runtimeconfig.json
+C:\Users\diman\source\repos\record\record\bin\Debug\netcoreapp3.1\record.runtimeconfig.dev.json
+C:\Users\diman\source\repos\record\record\bin\Debug\netcoreapp3.1\record.dll
+C:\Users\diman\source\repos\record\record\bin\Debug\netcoreapp3.1\record.pdb
+C:\Users\diman\source\repos\record\record\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\diman\source\repos\record\record\obj\Debug\netcoreapp3.1\record.csproj.CopyComplete
+C:\Users\diman\source\repos\record\record\obj\Debug\netcoreapp3.1\record.dll
+C:\Users\diman\source\repos\record\record\obj\Debug\netcoreapp3.1\record.pdb
+C:\Users\diman\source\repos\record\record\obj\Debug\netcoreapp3.1\record.genruntimeconfig.cache
